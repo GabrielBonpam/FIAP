@@ -1,4 +1,6 @@
-# O vídeo mostrando a aplicação está disponível no link: https://youtu.be/OmClbPjAdaI
+### \\Tech Challenge 5
 
+## O vídeo mostrando a aplicação está disponível no link: https://youtu.be/OmClbPjAdaI
 
 Este projeto aborda a detecção de objetos cortantes (facas, tesouras etc.) em vídeos, visando aumentar a segurança de estabelecimentos. A coleta e anotação de imagens é feita com ferramentas como LabelImg, fornecendo dados de treino. O modelo YOLO (via Ultralytics) é utilizado para treinar a rede de detecção, podendo ser realizado localmente ou na nuvem (Roboflow), dependendo dos recursos disponíveis. A inferência em vídeo analisa cada frame, desenhando bounding boxes e rótulos de confiança. Já a integração com ChatGPT gera textos personalizados de e-mail para alertar equipes de vigilância, enviando-os automaticamente via SMTP (Gmail) e otimizando o fluxo de notificação. A solução oferece flexibilidade para diferentes cenários de segurança em tempo real, podendo ser escalada com a persistência de logs em banco de dados e a geração de relatórios avançados. Assim, o projeto comprova o valor de IA e visão computacional para melhorar a segurança de pessoas e ativos.
+
